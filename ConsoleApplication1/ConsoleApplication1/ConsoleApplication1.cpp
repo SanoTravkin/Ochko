@@ -4,6 +4,11 @@
 #include "pch.h"
 #include <iostream> nawldwanl
 
+class Pidr {
+
+	int aaaaaaa;
+};
+
 int main()
 {
     std::cout << "Hello World!\n"; 
